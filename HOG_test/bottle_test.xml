@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='IMG_20141220_192051_965.jpg'>
+    <box top='420' left='80' width='212' height='701'>
+      <label>BTL</label>
+    </box>
+    <box top='388' left='284' width='229' height='729'>
+      <label>BTL</label>
+    </box>
+    <box top='380' left='488' width='241' height='737'>
+      <label>BTL</label>
+    </box>
+    <box top='548' left='720' width='149' height='592'>
+      <label>BTL</label>
+    </box>
+    <box top='548' left='852' width='165' height='584'>
+      <label>BTL</label>
+    </box>
+    <box top='552' left='1000' width='153' height='584'>
+      <label>BTL</label>
+    </box>
+    <box top='584' left='1132' width='181' height='553'>
+      <label>BTL</label>
+    </box>
+    <box top='576' left='1408' width='161' height='553'>
+      <label>BTL</label>
+    </box>
+    <box top='568' left='1560' width='157' height='553'>
+      <label>BTL</label>
+    </box>
+    <box top='1420' left='1628' width='137' height='529'>
+      <label>BTL</label>
+    </box>
+    <box top='1388' left='1492' width='133' height='537'>
+      <label>BTL</label>
+    </box>
+    <box top='1932' left='1476' width='1' height='1'/>
+    <box top='1382' left='1348' width='137' height='547'>
+      <label>BTL</label>
+    </box>
+    <box top='1384' left='1210' width='137' height='543'>
+      <label>BTL</label>
+    </box>
+    <box top='1358' left='1068' width='143' height='563'>
+      <label>BTL</label>
+    </box>
+    <box top='1354' left='916' width='157' height='561'>
+      <label>BTL</label>
+    </box>
+    <box top='1378' left='778' width='139' height='538'>
+      <label>BTL</label>
+    </box>
+    <box top='1372' left='652' width='129' height='537'>
+      <label>BTL</label>
+    </box>
+    <box top='1372' left='528' width='121' height='523'>
+      <label>BTL</label>
+    </box>
+    <box top='2210' left='458' width='135' height='509'>
+      <label>BTL</label>
+    </box>
+    <box top='2196' left='598' width='127' height='513'>
+      <label>BTL</label>
+    </box>
+    <box top='2108' left='746' width='163' height='595'>
+      <label>BTL</label>
+    </box>
+    <box top='2042' left='934' width='143' height='524'>
+      <label>BTL</label>
+    </box>
+    <box top='2076' left='1070' width='147' height='573'>
+      <label>BTL</label>
+    </box>
+    <box top='2080' left='1222' width='145' height='578'>
+      <label>BTL</label>
+    </box>
+    <box top='2100' left='1372' width='157' height='545'>
+      <label>BTL</label>
+    </box>
+    <box top='2166' left='1514' width='159' height='579'>
+      <label>BTL</label>
+    </box>
+    <box top='2166' left='1676' width='153' height='590'>
+      <label>BTL</label>
+    </box>
+  </image>
+</images>
+</dataset>

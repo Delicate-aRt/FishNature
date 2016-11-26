@@ -3,5 +3,7 @@ To run with config:
 > $ sloth --config sloth_cfg.py 
 
 **TODO**:
-* Labels should be updated to represent fish types
-* Label's attributes should be revised (some seems odd for current usage)
+* Labels should be updated to represent fish types --- DONE
+* Label's attributes should be revised (some seems odd for current usage) --- DONE
+
+Please check if config ok =)

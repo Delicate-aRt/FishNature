@@ -3,33 +3,27 @@
         "annotations": [
             {
                 "class": "ALB",
-                "height": 32.0,
+                "height": 209.0,
                 "type": "square",
-                "width": 32.0,
-                "x": 52.0,
-                "y": 40.0
+                "width": 209.0,
+                "x": 444.0,
+                "y": 500.0
             },
             {
-                "class": "DOL_head",
-                "height": 37.0,
+                "class": "ALB_head",
+                "height": 77.0,
                 "type": "square",
-                "width": 37.0,
-                "x": 166.0,
-                "y": 104.0
+                "width": 77.0,
+                "x": 473.0,
+                "y": 503.0
             },
             {
-                "class": "SHARK_tail",
-                "height": 53.0,
+                "class": "ALB_tail",
+                "height": 85.0,
                 "type": "square",
-                "width": 53.0,
-                "x": 529.0,
-                "y": 91.0
-            },
-            {
-                "class": "NoF",
-                "type": "square",
-                "x": 325.0,
-                "y": 354.0
+                "width": 85.0,
+                "x": 541.0,
+                "y": 619.0
             }
         ],
         "class": "image",

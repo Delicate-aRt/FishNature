@@ -70,9 +70,8 @@ class SquareItem(RectItem):
             BaseItem.mouseMoveEvent(self, event)
 
 
-
 LABELS = (
-    # ALB & aprts
+    # ALB & parts
     {"attributes": {"type": "square",
                     "class": "ALB"},
      "item": SquareItem,

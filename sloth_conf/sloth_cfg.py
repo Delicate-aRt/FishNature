@@ -28,10 +28,16 @@ class SquareItemInserter(RectItemInserter):
         else:
             if self._item is not None:
                 assert self._init_pos is not None
-                rect = QRectF(self._init_pos, event.scenePos()).normalized()
 
                 # RG ADDED to draw SQUARE only
-                rect.setHeight(rect.width())
+                rect = QRectF(self._init_pos, event.scenePos())
+
+                if rect.height() >= 0:
+                    rect = rect.normalized()
+                    rect.setHeight(rect.width())
+                else:
+                    rect.setHeight(-abs(rect.width()))
+                    rect = rect.normalized()
 
                 self._item.setRect(rect)
 

@@ -1,13 +1,13 @@
 I propose to store here label's files only and the real data should be provided by adding sim-link.
 
-##### First step
+#### First step
 Adding sim-link to the unpacked data. In my case that was:
 ```sh
 $ cd DATA/
 $ ln -s /mnt/STORAGE/DATA/TheNatureConservancy/unpacked/train_set train_set
 ```
 
-##### Second step
+#### Second step
 Using *sloth* generate json file using relative path (so other can modify labels locally and to prevent future issues during merging all labels to one file):
 ```sh
 $ cd DATA/train_set_labels
@@ -26,7 +26,7 @@ This will create YFT.json using relative path e.g.:
 ...
 ```
 
-##### Third step
+#### Third step
 Run *sloth* using prepared config & generated file to start labeling:
 ```sh
 $ cd DATA/train_set_labels

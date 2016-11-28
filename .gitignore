@@ -1,4 +1,5 @@
 .idea/
-./.git
-./.idea
-./HOG_bottle_test/imglab
+/.git
+/.idea
+/HOG_bottle_test/imglab
+/DATA/train_set/
